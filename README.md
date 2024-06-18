@@ -1,0 +1,1 @@
+This Github contains files including python code, results.csv, custom trained weight used in "Innovative Aircraft Skin Damage Assessment Using YOLOv9: A Real-Time Material Evaluation System" research.
